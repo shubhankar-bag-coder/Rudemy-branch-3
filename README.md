@@ -12,7 +12,7 @@ Hello, welcome to my react App.
 # Project Starts Ends :fork_and_knife:
 
 3.Project:
-The code starts from Section 5 75 & Code stops no. 
+The code starts from Section 5 74 & Code stops no. 82
     
 
 # Name Deatils :fork_and_knife:
