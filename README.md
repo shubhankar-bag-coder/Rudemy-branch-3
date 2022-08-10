@@ -27,6 +27,6 @@ by Maximilian Schwarzmüller :man:
 last update June 2022 :date: 
 
 
-## Githubh Link :fork_and_knife::
+## Github Link :fork_and_knife::
 
 [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
